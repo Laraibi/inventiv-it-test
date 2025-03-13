@@ -25,7 +25,6 @@ cd inventiv-it-test
 ### 2️⃣ **Installer les dépendances**  
 ```bash
 composer install
-npm install
 ```
 
 ### 3️⃣ **Configurer l’application**  
