@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CalculatorController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/calculator');
 });
 
 
