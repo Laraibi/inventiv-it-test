@@ -2,7 +2,7 @@
 
 ## 📖 Description  
 Ce projet est une **calculatrice Laravel** permettant d’effectuer des opérations de base : **addition, soustraction, multiplication et division**.  
-L’objectif est de démontrer l’application des bonnes pratiques de développement en Laravel (**PSR-12, SOLID, DRY**).  
+L’objectif est de démontrer l’application des bonnes pratiques de développement en Laravel (**PSR-4, SOLID, DRY**).  
 
 ---
 
